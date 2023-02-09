@@ -1,0 +1,30 @@
+{
+  "homepage": "https://github.com/Schmavery/facebook-chat-api#readme",
+  "keywords": [
+    "facebook",
+    "chat",
+    "api",
+    "fca"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "fca-huykaiser",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huykaiserUwU/fca-huykaiser.git"
+  },
+  "scripts": {
+    "lint": "eslint **.js",
+    "prettier": "prettier utils.js src/* --write",
+    "test": "mocha"
+  },
+  "version": "3.9.7",
+  "description": "This repo is a fork from main repo and will usually have new features bundled faster than main repo (and maybe bundle some bugs, too).",
+  "bugs": {
+    "url": "https://github.com/huykaiserUwU/fca-huykaiser/issues"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "author": "Nguyen Van Huy X HuyKaiser"
+}
